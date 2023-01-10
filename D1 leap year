@@ -1,3 +1,5 @@
+code :-
+
 year=as.integer(readline(prompt="Enter the year : "))
 if(year%%4==0)
 {
