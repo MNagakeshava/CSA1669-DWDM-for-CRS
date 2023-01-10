@@ -1,7 +1,0 @@
-Addition of two numbers
-
-code :-
-
-a=as.integer(readline(prompt="Enter the number a :"))
-b=as.integer(readline(prompt="Enter the number b :"))
-print(a+b)
